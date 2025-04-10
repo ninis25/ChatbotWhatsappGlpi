@@ -1,0 +1,43 @@
+# Dépendances
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Environnement
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers temporaires
+tmp/
+temp/
+
+# Fichiers de configuration IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de cache
+.cache/
+.npm/
+
+# Fichiers spécifiques au projet
+config.json
+secrets.json
+api_keys.json
