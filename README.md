@@ -285,4 +285,4 @@ curl -X POST "https://api.openai.com/v1/chat/completions" \
 
 ## Licence
 
-MIT
+MIT réalisé par Anisse Fouka dans le cadre de son stage
